@@ -1,6 +1,6 @@
-# Numerical-Methods-Optimization-Project
+# Numerical Methods Optimization Project
 
-## This project implements numerical methods like LU factorization and iterative improvement to analyze the convergence and stability of solving large linear systems in MATLAB.
+This project implements numerical methods like LU factorization and iterative improvement to analyze the convergence and stability of solving large linear systems in MATLAB.
 
 It was developed as a project for numerical analysis and optimization. The goal was to demonstrate proficiency in mathematical and matrix programming.
 
